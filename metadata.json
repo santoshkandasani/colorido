@@ -1,0 +1,6 @@
+{
+  "name": "COLORIDO 2K26 - National Cultural & Sports Fest",
+  "description": "Official portal for COLORIDO 2K26 National Level Cultural & Sports Festival featuring event registrations, live results, schedules, transport details, and participant dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
